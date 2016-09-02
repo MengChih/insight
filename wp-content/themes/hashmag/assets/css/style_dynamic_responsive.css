@@ -1,0 +1,14 @@
+@media only screen and (max-width: 1024px){
+.mkdf-content .mkdf-content-inner > .mkdf-container > .mkdf-container-inner, .mkdf-content .mkdf-content-inner > .mkdf-full-width > .mkdf-full-width-inner { padding-top: 0px!important;}
+
+}
+
+@media only screen and (min-width: 480px) and (max-width: 768px){
+	.mkdf-parallax-section-holder { height: auto !important;min-height: 300px;}
+
+}
+
+@media only screen and (max-width: 480px){
+	.mkdf-parallax-section-holder { height: auto !important;min-height: 300px;}
+
+}

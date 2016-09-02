@@ -1,0 +1,1376 @@
+Skip to main content <#wpbody-content>
+
+  *
+
+    Dashboard
+     <index.php>
+      o Dashboard
+      o Home <index.php>
+      o Updates 2 <update-core.php>
+      o Akismet Stats <index.php?page=akismet-stats-display>
+  *
+  *
+
+    Posts
+     <edit.php>
+      o Posts
+      o All Posts <edit.php>
+      o Add New <post-new.php>
+      o Categories <edit-tags.php?taxonomy=category>
+      o Tags <edit-tags.php?taxonomy=post_tag>
+  *
+
+    Media
+     <upload.php>
+      o Media
+      o Library <upload.php>
+      o Add New <media-new.php>
+  *
+    EmbedPlus
+     <admin.php?page=embedplus-official-options>
+  *
+    EmbedPlus PRO
+     <admin.php?page=embedplus-video-analytics-dashboard>
+  *
+
+    Links
+     <link-manager.php>
+      o Links
+      o All Links <link-manager.php>
+      o Add New <link-add.php>
+      o Link Categories <edit-tags.php?taxonomy=link_category>
+  *
+
+    Pages
+     <edit.php?post_type=page>
+      o Pages
+      o All Pages <edit.php?post_type=page>
+      o Add New <post-new.php?post_type=page>
+  *
+
+    Comments 0
+     <edit-comments.php>
+  *
+  *
+
+    Appearance
+     <themes.php>
+      o Appearance
+      o Themes <themes.php>
+      o Customize <customize.php>
+      o Widgets <widgets.php>
+      o Menus <nav-menus.php>
+      o eNews Theme Options <themes.php?page=core_functions.php>
+      o Background <themes.php?page=custom-background>
+      o Editor <theme-editor.php>
+  *
+
+    Plugins 1
+     <plugins.php>
+      o Plugins 1
+      o Installed Plugins <plugins.php>
+      o Add New <plugin-install.php>
+      o Editor <plugin-editor.php>
+      o Akismet <plugins.php?page=akismet-key-config>
+  *
+
+    Users
+     <users.php>
+      o Users
+      o All Users <users.php>
+      o Add New <user-new.php>
+      o Your Profile <profile.php>
+  *
+
+    Tools
+     <tools.php>
+      o Tools
+      o Available Tools <tools.php>
+      o Import <import.php>
+      o Export <export.php>
+      o Backup <tools.php?page=wp-db-backup>
+  *
+
+    Settings
+     <options-general.php>
+      o Settings
+      o General <options-general.php>
+      o Writing <options-writing.php>
+      o Reading <options-reading.php>
+      o Discussion <options-discussion.php>
+      o Media <options-media.php>
+      o Permalinks <options-permalink.php>
+      o EmbedPlus <options-general.php?page=embedplus-official-options>
+      o Flexo Archives <options-general.php?page=flexo-archvies-options>
+      o Google Analytics Dashboard
+        <options-general.php?page=google-analytics-dashboard/gad-admin-options.php>
+      o Google Analytics
+        <options-general.php?page=google-analytics-for-wordpress>
+      o WPtouch <options-general.php?page=wptouch-settings>
+      o Limit Login Attempts <options-general.php?page=limit-login-attempts>
+      o XML-Sitemap
+        <options-general.php?page=google-sitemap-generator/sitemap.php>
+  *
+  *
+    Wordfence
+     <admin.php?page=Wordfence>
+      o Wordfence
+      o Scan <admin.php?page=Wordfence>
+      o Live Traffic <admin.php?page=WordfenceActivity>
+      o Blocked IPs <admin.php?page=WordfenceBlockedIPs>
+      o Cellphone Sign-in <admin.php?page=WordfenceTwoFactor>
+      o Country Blocking <admin.php?page=WordfenceCountryBlocking>
+      o Scan Schedule <admin.php?page=WordfenceScanSchedule>
+      o Whois Lookup <admin.php?page=WordfenceWhois>
+      o Advanced Blocking <admin.php?page=WordfenceRangeBlocking>
+      o Options <admin.php?page=WordfenceSecOpt>
+  *
+    Collapse menu
+
+Skip to toolbar <#wp-toolbar>
+
+  * <http://www.insight-post.tw/wp-admin/about.php>
+      o About WordPress <http://www.insight-post.tw/wp-admin/about.php>	
+      o WordPress.org <http://wordpress.org/>	
+      o Documentation <http://codex.wordpress.org/>	
+      o Support Forums <http://wordpress.org/support/>	
+      o Feedback <http://wordpress.org/support/forum/requests-and-feedback>	
+  * 洞見Insight－國際事務評論網 <http://www.insight-post.tw/>
+      o Visit Site <http://www.insight-post.tw/>	
+  * 21 WordPress Update, 1 Plugin Update
+    <http://www.insight-post.tw/wp-admin/update-core.php>	
+  * 0 <http://www.insight-post.tw/wp-admin/edit-comments.php>	
+  * New <http://www.insight-post.tw/wp-admin/post-new.php>
+      o Post <http://www.insight-post.tw/wp-admin/post-new.php>	
+      o Media <http://www.insight-post.tw/wp-admin/media-new.php>	
+      o Link <http://www.insight-post.tw/wp-admin/link-add.php>	
+      o Page
+        <http://www.insight-post.tw/wp-admin/post-new.php?post_type=page>	
+      o User <http://www.insight-post.tw/wp-admin/user-new.php>	
+  * View Post <http://www.insight-post.tw/?p=4753>	
+
+  * Howdy, icetornado <http://www.insight-post.tw/wp-admin/profile.php>
+      o icetornado <http://www.insight-post.tw/wp-admin/profile.php>	
+      o Edit My Profile <http://www.insight-post.tw/wp-admin/profile.php>	
+      o Log Out
+        <http://www.insight-post.tw/wp-login.php?action=logout&_wpnonce=3358843d01>
+
+
+Log Out
+<http://www.insight-post.tw/wp-login.php?action=logout&_wpnonce=3358843d01>
+
+  * Customizing This Display <#tab-panel-customize-display>
+  * Title and Post Editor <#tab-panel-title-post-editor>
+  * Inserting Media <#tab-panel-inserting-media>
+  * Publish Settings <#tab-panel-publish-box>
+  * Discussion Settings <#tab-panel-discussion-settings>
+
+You can also create posts with the Press This bookmarklet
+<options-writing.php>.
+
+*For more information:*
+
+Documentation on Writing and Editing Posts
+<http://codex.wordpress.org/Posts_Add_New_Screen>
+
+Support Forums <http://wordpress.org/support/>
+
+The title field and the big Post Editing Area are fixed in place, but
+you can reposition all the other boxes using drag and drop. You can also
+minimize or expand them by clicking the title bar of each box. Use the
+Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks,
+Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column
+layout for this screen.
+
+*Title* - Enter a title for your post. After you enter a title, you’ll
+see the permalink below, which you can edit.
+
+*Post editor* - Enter the text for your post. There are two modes of
+editing: Visual and Text. Choose the mode by clicking on the appropriate
+tab. Visual mode gives you a WYSIWYG editor. Click the last icon in the
+row to get a second row of controls. The Text mode allows you to enter
+HTML along with your post text. Line breaks will be converted to
+paragraphs automatically. You can insert media files by clicking the
+icons above the post editor and following the directions. You can go to
+the distraction-free writing screen via the Fullscreen icon in Visual
+mode (second to last in the top row) or the Fullscreen button in Text
+mode (last in the row). Once there, you can make buttons visible by
+hovering over the top area. Exit Fullscreen back to the regular post editor.
+
+You can upload and insert media (images, audio, documents, etc.) by
+clicking the Add Media button. You can select from the images and files
+already uploaded to the Media Library, or upload new media to add to
+your page or post. To create an image gallery, select the images to add
+and click the “Create a new gallery” button.
+
+You can also embed media from many popular websites including Twitter,
+YouTube, Flickr and others by pasting the media URL on its own line into
+the content of your post/page. Please refer to the Codex to learn more
+about embeds <http://codex.wordpress.org/Embeds>.
+
+Several boxes on this screen contain settings for how your content will
+be published, including:
+
+  * *Publish* - You can set the terms of publishing your post in the
+    Publish box. For Status, Visibility, and Publish (immediately),
+    click on the Edit link to reveal more options. Visibility includes
+    options for password-protecting a post or making it stay at the top
+    of your blog indefinitely (sticky). Publish (immediately) allows you
+    to set a future or past date and time, so you can schedule a post to
+    be published in the future or backdate a post.
+  * *Featured Image* - This allows you to associate an image with your
+    post without inserting it. This is usually useful only if your theme
+    makes use of the featured image as a post thumbnail on the home
+    page, a custom header, etc.
+
+*Send Trackbacks* - Trackbacks are a way to notify legacy blog systems
+that you’ve linked to them. Enter the URL(s) you want to send
+trackbacks. If you link to other WordPress sites they’ll be notified
+automatically using pingbacks, and this field is unnecessary.
+
+*Discussion* - You can turn comments and pings on or off, and if there
+are comments on the post, you can see them here and moderate them.
+
+
+          Show on screen
+
+Revisions Excerpt Send Trackbacks Custom Fields Discussion Comments Slug
+Author Categories Tags Featured Image
+
+
+          Screen Layout
+
+Number of Columns: 1 2
+
+Help <#contextual-help-wrap>
+Screen Options <#screen-options-wrap>
+WordPress 3.7.1 <http://codex.wordpress.org/Version_3.7.1> is available!
+Please update now <http://www.insight-post.tw/wp-admin/update-core.php>.
+An automated WordPress update has failed to complete - please attempt
+the update again now <update-core.php>.
+
+
+    Edit Post Add New <http://www.insight-post.tw/wp-admin/post-new.php>
+
+*Connection lost.* Saving has been disabled until you’re reconnected.
+We’re backing up this post in your browser, just in case.
+
+Enter title here
+*Permalink:* http://www.insight-post.tw/?p=4753 Change Permalinks
+<options-permalink.php> View Post <http://www.insight-post.tw/?p=4753>
+Text Visual
+Add Media <#>
+<p>各位讀者們大家好，歡迎大家一起來閱讀第54期週報。首先，美洲方面，為讀
+者們持續追蹤美國的健保問題，美國才因健保問題而讓政府陷入停擺，然而危機甫
+結束，耗費鉅資的健保網站卻突然失靈，歐巴馬政府也因而腹背受敵。在南美方
+面，巴西石油巨擘陷入財務危機，這將對能源市場造成什麼影響？在中東方面，以
+色列釋放了26名犯人，巴勒斯坦額手稱慶，然而以色列人卻憂心忡忡，以巴在共同
+開發與維護和平顯然還有更多的談判空間。在非洲方面，剛果政府軍與叛軍和平協
+議破裂，聯合國維和人員出現傷亡。大洋洲方面，則關注澳洲政府如何安排與鄰國
+在氣候、移民等問題。歐洲方面，則為大家追蹤最新的。亞洲方面，中國即將迎來
+第十八屆三中全會，請看洞見為您整理最新的經改新聞。更多國際新聞，請各位隨
+時關注洞見粉絲團。</p> <h3 dir="ltr" id="docs-internal-guid-
+1a99f487-1e47-6fc5-1cc5-d24e0d1f9712">北美</h3> <h3 dir="ltr">SIght：
+</h3> <ul> <li dir="ltr"> <p dir="ltr"><a href="http://www.cna.com.tw
+/news/aOPL/201310240008-1.aspx">美國五億健保網站出包<br /> </a>中央通訊
+社（2013-10-24）憤怒的美國國會議員今天要求行政機關解釋為什麼5億美元打造
+的「歐巴馬健保」網站問題連連。他們之後還將舉行聽證會調查此事。<br /> 總
+統歐巴馬與其行政團隊本月推出「歐巴馬健保」網站Healthcare.gov，但接連發生
+網路塞車等問題，惡評如潮，歐巴馬原本希望有數百萬美國人登記購買健康保險，
+現在卻被迫不斷解釋。</p> </li> </ul> <ul> <li dir="ltr"> <p dir="ltr"><a
+href="http://hk.news.yahoo.com/%E5%81%A5%E4%BF%9D%E9%A0%BB%E5%87%BA%E5
+%8C%85-%E6%B0%91%E4%B8%BB%E9%BB%A8%E8%AD%B0%E5%93%A1%E6%86%82%E9%81%B8
+%E6%83%85-105800061.html">健保頻出包 民主黨議員憂選情<br /> </a>路透社
+（2013-11-2）歐記健保剛推出就頻頻出包，讓民主黨議員不禁憂心，健保問題恐
+怕會衝擊到2014年選情。<br /> 歐記健保上路不利，對這些議員來說特別頭痛，
+因為他們捍衛的這項法案，是他們協助起草、且對其價值深信不疑的標竿性法律。
+<br /> 民主黨參議員幕僚說：「如果歐巴馬政府把網站問題解決了，民眾也開始
+登記，那就對我們有利。如果他們沒有，那我們的麻煩就會持續到2014年選舉。」
+</p> </li> </ul> <p dir="ltr">[learn_more caption="導讀請看此"] 歐巴馬希
+望透過建立新的健保法規與市場制度，在2014年年初，讓美國九成以上的國民享有
+健保。兩黨僵持在健保預算，連帶使得政府預算停擺，已經讓美國國民感受到一個
+月的不方便。如今好不容易預算僵持已經化解，進一步歐巴馬希望透過統一網站窗
+口，讓美國民眾填寫健保加保資料，如期達成政績。然而，這個耗費巨資的網站，
+居然無法負荷數百萬人上線填寫資料的狀況，而服務數百萬人本來就是這個網站的
+目標。網站上線首日，約有四萬人排隊塞車，只有六人完成登記，而美國政府統
+計，後面應該還有七百萬人等待登記。 歐巴馬期待的最大政績，不惜冒著政府停
+擺風險的僵持，如今卻因為網站設計的明顯紕漏，，使共和黨獲得機會再度猛烈批
+評法案的倉促與缺失，而民主黨也因此擔憂後續選情。歐巴馬目前的支持度創新
+低，且網站依然無法正常運作，隱私安全的問題目前也令人堪憂。[/learn_more]
+</p> <h3 dir="ltr">拉丁美洲</h3> <h3 dir="ltr">Sight</h3> <ul> <li
+dir="ltr"> <p dir="ltr"><a href="http://www.cna.com.tw/news/aFE
+/201310310092-1.aspx">OGX提破產 巴西前首富隕落<br /> </a>中央通訊社
+（2013-10-31）－前巴西首富巴蒂斯塔（Eike Batista）旗下的石油天然氣公司
+OGX Petroleo &amp; Gas Participacoes SA週三聲請破產保護，巴薪斯塔在短短
+16個月、身家蒸發逾300億美元後，如今首富光芒盡褪。OGX的36億美元債券即將違
+約，恐創下拉丁美洲有史以來最大宗的企業破產案。</p> </li> </ul> <p
+dir="ltr">[learn_more caption="導讀請按此"] 從2012年，巴西開始開採西半球
+30年來發現的最大的油田之一。深海鑽井石油產業發展，在巴西如火如荼地進行。
+過去十年來發現的最大的十個深水近海油田中，有七個位於巴西，巴西以擁有世界
+上發展最快的深海盆地為榮。到2020年﹐巴西可以做到每天出口100萬桶原油﹐幾
+乎與墨西哥的出口量持平﹐成為美國最大的原油供應國。 巴蒂斯塔（Eike
+Batista）2007年創辦OGX，曾多次聲稱發現離岸石油，公司市值於2010年高峰期曾
+高達340 億美元。然而該公司產油量一直不及預期，2013年上半年平均日產量僅
+8500桶，業務虧損達25億美元。OGX上月初表示無力債還4450萬美元利息，其後因
+未能與債務人就51億美元負債達成協議，申請破產保護。 OGX石油天然氣公司債務
+一旦違約，可能衝擊太平洋投資管理公司（PIMCO）和貝萊德（Blackrock）等債券
+基金管理業者。華爾街日報報導，OGX未能償還4,450萬美元的債務利息後，可能影
+響六家業者，包括PIMCO、貝萊德、Loomis, Sayles 公司、Lord Abbett公司、
+Ashmore集團和Spinnaker資本集團，因為OGX 36億美元的美元計價債券中，這些業
+者就持有約50%。[/learn_more]</p> <h3 dir="ltr">北非中東</h3> <ul> <li
+dir="ltr"> <p dir="ltr"><a href="http://www.nytimes.com/2013/10/31/world
+/middleeast/israel-approves-1500-new-apartments-in-east-jerusalem.html">
+以色列：屯墾區將增加1,500單位建築</a><br /> 紐約時報（2013-10-30）－以色
+列政府於週三正式宣佈，通過1,500單位的屯墾區建案，該些建案大多在東耶路撒
+冷，為充滿爭議的區域。同時也宣布了一項爭議性的公園與遊客中心建案，巴勒斯
+坦因此指責以色列絲毫不顧華盛頓正在進行的以巴和談。這些建案的通過是為了安
+撫以色列國內的強硬派政客，他們對於以色列釋放26名巴勒斯坦殺人犯感到不滿。
+釋放囚犯則是根據以巴雙方在今年夏天達成的協議。</p> </li> </ul> <ul> <li
+dir="ltr"> <p dir="ltr"><a href="http://www.nytimes.com/2013/11/01/world
+/middleeast/palestinians-in-peace-talks-with-israel-offer-
+resignations.html?ref=middleeast">巴勒斯坦談判代表提出辭呈</a><br /> 紐
+約時報（2013-10-31）－巴勒斯坦方面負責與以色列進行談判的代表們，於週四集
+體提出辭呈，以抗議以色列在屯墾區上增加建案的決定，他們認為在這個議題上，
+美國缺乏行動。但目前為止的資訊顯示，巴勒斯坦總統阿巴斯不大可能同意這項辭
+呈，並且認為談判必須繼續下去。這項抗議的行動被認為是針對美國無所作為而
+來。</p> </li> <li dir="ltr"> <p dir="ltr"><a
+href="http://www.theguardian.com/world/2013/oct/30/tension-israelis-26-
+palestinian-prisoners-release">釋放囚犯後，以色列內部出現爭議</a><br />
+英國衛報（2013-10-30）－以色列在週三清晨釋放了26名巴勒斯坦囚犯，這個事件
+在加薩走廊與西岸區引起了人們封街慶祝狂歡，但也引起了以色列民眾因釋放恐怖
+份子而不滿。這次釋放的囚犯，是總共預計釋放的104名囚犯當中的第二波，這些
+囚犯是在奧斯陸和平協定簽署之前，被以謀殺以色列人罪名關押的囚犯，他們都已
+被囚禁超過20年。這次的釋放是因為巴勒斯坦方面以此作為開啟以巴談判的前提。
+但這個舉動在以色列政府內閣內引發了緊張關係。為了安撫國內右翼的支持者，以
+色列總理宣布了在屯墾區超過1000單位新公寓建案的計畫。</p> </li> </ul> <p
+dir="ltr">[learn_more caption="導讀請按此"] 從上述為各位整理的新聞當中不
+難看出，以色列與巴勒斯坦矛盾的複雜程度。在國際的談判當中，我們常可以看
+到，就算雙方的領導人有意談出一個能被雙方接受的條件，在雙方的內部仍然有不
+同的聲音必須協調、滿足。 屯墾區的的拓建、釋放遭受關押巴勒斯坦人，這兩件
+事情頻繁地被以色列政府用來一方面安撫國內的強硬派，另一方面則用來營造與巴
+勒斯坦的友善談判氣氛。這在國際關係領域中有個術語：「雙層博奕」，政府同時
+面對著國內與國外的談判壓力，兩個因素如何影響了最後談判的結果。 在這個案
+例當中，釋放囚犯其實只是一個象徵性的舉動，因為以色列官方對於抗議的巴勒斯
+坦人進行濫捕、濫訴、無有效權利救濟管道的情況沒有減少，放了多少人都無濟於
+事；而同時，在屯墾區增加建案，這件事情本身其實是更多巴勒斯坦人抗爭、遭逮
+捕的根源。從以色列的舉動或許可以看出，相較於與巴勒斯坦的談判，他們更在乎
+的或許是國內政治的壓力。[/learn_more]</p> <h3 dir="ltr">非洲<img alt=""
+src="https://lh3.googleusercontent.com/VgxG8vtO0h4gOmj0CyWpq2NPqzbVvVk6pU0RDWQPv5I8-2sPkZpFK7mOzSj_9-I8ug7iiU9_kPlSAZ2PJKPyT54W8jvKHPbMo4VQl0O2zRCcK8sk30fx-Ch1"
+width="361" height="482" /></h3> <p dir="ltr">圖1：2012 年剛果政府與反叛
+軍內戰時，平民區居民逃離戰區的畫面</p> <p dir="ltr">資料來源：<a
+href="http://www.flickr.com/photos/69583224@N05/7740123860/">http://www.flickr.com/photos/69583224@N05/7740123860/</a></p>
+<h3 dir="ltr">追蹤議題：和平協議破裂，剛果戰局再起，聯合國維和部隊遇刺
+</h3> <ul> <li dir="ltr"> <p dir="ltr"><a
+href="http://iservice.libertytimes.com.tw/liveNews/news.php?no=891402&
+amp;type=%E5%9C%8B%E9%9A%9B">剛果戰火升溫聯合國部隊遇刺<br /> </a>自由時
+報（2013-10-28）－剛果民主共和國自去年3月起，爆發政府軍與反抗軍「M23」的
+武裝衝突，經國際多次協調，雙方仍再掀戰火，甚至連聯合國的維安部隊都遭受攻
+擊，造成1名人員死亡，聯合國安全理事會因此於今天召開緊急會議。27日上午，
+一支聯合國的維和部隊在執行支援難民區行動時，遭到「M23」的火力攻擊，導致
+一名坦尚尼亞籍的成員死亡，引起聯合國高度重視。</p> </li> </ul> <ul> <li
+dir="ltr"> <p dir="ltr">談判破裂前剛果政府與反叛軍幾乎達成所有協議<br />
+基督教科學箴言報（2013-10-28）－剛果政府與反叛軍M23於烏干達首都坎帕拉
+（Kampala）進行了多次談判之後取得了眾多議題的共識。包括了囚犯釋放、不再
+視M23為反叛組織並且使其成為政黨的可能性、難民的安置與回歸以及歸還M23短暫
+佔領戈馬（Goma）時所掠奪的財產。但M23領導階層如何處理的議題仍然是和談成
+功的最大障礙，因為其領導階層已經被聯合國與美國視為戰爭罪犯。</p> </li>
+</ul> <h3 dir="ltr">大洋洲<img alt=""
+src="https://lh6.googleusercontent.com/mgcV9KBpbAbfKLEbudOR5m9AlW0wc1p2sg4n7lyEvcebS-D2X_kAr42v8V1yBcSVGLKqibEH4CGWUCF8QZq7srOqJJScaVKfdWxWiwpGFe3tlsE4-L7VUF-f"
+width="602px;" height="401px;" /></h3> <p dir="ltr">圖2：澳洲民眾抗議政
+府將尋求庇護難民送往諾魯安置</p> <p dir="ltr">資料來源：<a
+href="http://www.flickr.com/photos/takver/9377504502/">http://www.flickr.com/photos/takver/9377504502/</a></p>
+<h3 dir="ltr">Sight：澳洲難民政策的後續發酵</h3> <ul> <li dir="ltr"> <p
+dir="ltr"><a href="http://www.smh.com.au/world/indonesia-to-send-navy-
+patrols-to-timor-sea-for-asylum-seekers-20131030-2whb1.html">印尼企圖加
+強海軍巡邏打擊人口走私</a><br /> 雪梨太陽報（2013-10-30）－澳洲移民局長
+莫瑞森周三赴雅加達與印尼當局商討難民問題，印尼將加派海軍在爪哇和澳洲之間
+的海域巡邏，藉此打擊人口走私。雖然如此，莫瑞森此行卻無法見到與難民事務直
+接相關的官員。印尼政府表示，增派海軍是為了要緩和南方海域的主權問題，實際
+上難民的問題仍要澳洲政府自行負責。</p> </li> <li dir="ltr"> <p
+dir="ltr"><a href="http://www.theaustralian.com.au/national-affairs
+/policy/nauru-makes-only-one-refugee-ruling-in-year/story-fn9hm1gu-
+1226748567538#">諾魯過去一年僅成功受理一位庇護難民</a><br /> 澳洲時報
+（2013-10-29）－諾魯自去年重新啟用庇護難民安置中心以後，僅成功將一位庇護
+難民送回澳洲，卻已經付出龐大財力與資源，基礎設施更不堪負荷龐大難民數量。
+艾波特的難民政策沿襲前總理陸克文於7月19日宣布的作法，將所有人都送往巴布
+亞新幾內亞安置。至於目前在諾魯留滯的682名尋求庇護者，於7月19日之後才抵達
+的全權交由巴布亞新幾內亞負責；而在那之前就已經抵達該島的難民，則是澳洲政
+府要負責。只是最大的問題是，澳洲政府仍未訂出明確的處理時程來。</p> </li>
+<li dir="ltr"> <p dir="ltr"><a href="http://au.ibtimes.com/articles
+/518430/20131031/floating-hotel-tony-abbott-asylum-seeker-
+manus.htm#.UnJkyXBkMXg">為解決澳洲難民政策 「諾亞方舟」出現在馬努斯島
+</a><br /> 澳洲國際商報（2013-10-31）－日前一艘彷彿諾亞方舟的海上旅館出
+現在馬努斯島岸邊。這是澳洲總理艾波特為了解決尋求庇護者方案，替馬努斯島的
+拘留所工作人員所安排住宿空間。該島目前安置了1101名尋求庇護者，因為過多的
+暴力、性侵與衝突事件，工作人員被迫轉移到較安全的地方。反對者認為艾波特此
+舉相當輕率，從未有人意料到他會買一艘遊艇來解決問題。</p> </li> <li
+dir="ltr"> <p dir="ltr"><a href="http://www.abc.net.au/news/2013-10-31
+/an-png27s-prime-minister-calls-for-special-economic-zone-with-
+/5062162">巴布亞紐幾內亞欲與澳洲劃定自由貿易區</a><br /> 澳洲網絡
+（2013-10-31）－巴布亞紐幾內亞總理宣布將會與澳洲建立一個自由貿易區。他認
+為該國目前尚未準備好和澳洲簽署自由貿易協定，所以可以先透過這種特殊的經濟
+區來深化兩國間的連結。同時他也指出，如果雙方政府議會皆同意，將會在巴布亞
+紐幾內亞興建更多的尋求庇護難民拘留中心。目前澳洲政府希望能夠有可以容納三
+千人以上的處所，但顯然現在根本無法容納。</p> </li> </ul> <p>[learn_more
+caption="導讀請按此"] 本周企圖追蹤澳洲政府難民政策對於周遭國家後續的影
+響，或者可以更精確的說澳洲政府在區域內部的佈局與手段。自艾伯特接任總理以
+來，包括他自己和不少政府官員相繼前往印尼協商難民問題。印尼當局雖然在本周
+已經稍做讓步要加派海軍巡邏人力，卻不願鬆口要幫澳洲政府收拾爛攤子。過去被
+澳洲當作是難民安置點的諾魯以及馬努斯島則是兩樣情。因為澳洲政府已經決議要
+將接下來所有尋求庇護的難民都送往巴布亞紐幾內亞，相應的就必須以自由貿易區
+這樣的經濟誘餌作為手段；相較之下，諾魯因為不再接受新的尋求庇護難民，目前
+島上須由澳洲政府負責的難民便幾乎不被受理，無法有明確可以離開或留下的時
+程。 由此可見，艾柏特的難民政策推行至今，仍然與過去前幾任總理相去無幾。
+他們同樣都採取眼不見為淨的立場，以自身強勢的政治經濟優勢丟給其他國家處
+理，顯然無法真正解決實際上難民的艱困處境。不禁讓人聯想到前陣子吉里巴斯居
+民申請為氣候難民的例子，相信接下來澳洲政府只會要再面對越來越多相似的問題
+而已。[/learn_more]</p> <p>&nbsp;</p> <h3 dir="ltr">歐洲</h3> <h3
+dir="ltr">SIGHT:歐元區走出歐債風暴陰影了嗎?歐元區經濟現況再檢視</h3>
+<ul> <li dir="ltr"> <p dir="ltr"><a href="http://news.rti.org.tw
+/index_newsContent.aspx?nid=461061">義大利失業率創新高</a><br /> 中央廣
+播電台（2013-10-31）－義大利國家統計局今天(31日)指出，義大利9月的失業率
+比8月上升0.1%，來到12.5%，創下歷史新高；和去年同期相比，則是上升了1.6%。
+統計局指出，義大利正在尋找工作的失業人口，上升到319萬4千人，比8月增加
+0.9%。與去年同期相比，則是增加了14%。統計局指出，在15到24歲之間年輕人，
+失業率40.4%，創下歷來新高，比8月上升0.2%，比去年同期增加4.4%。</p> </li>
+<li dir="ltr"> <p dir="ltr"><a href="http://news.cnyes.com/Content
+/20131031/KHAYN1SEXUPA6.shtml?c=pic">歐元區 10 月份通膨率 4 年最低點</a>
+<br /> 聚亨網（2013-10-31）－歐盟統計局 Eurostat 發表數據顯示，由於能源
+成本大幅下跌，歐元區 10 月份的通貨膨漲率降至 0.7%，達到 2010年 2 月以來
+的最低點。該數據同時顯示，歐元區 9 月份的失業率再度創下新高。估計這將讓
+歐洲央行 (European Central Bank，ECB)面臨更大的降息壓力。在歐元區金融危
+機發生後，15 到 24 歲的年輕歐洲人，是受影響最大的族群，特別是在經濟受創
+最嚴重的一些國家，如西班牙跟希臘。在歐元區最強大的經濟體－德國，失率業經
+過 3 個月都維持穩定不變後，9 月份小幅下降至 5.2%。歐元區第 2 及第 3 大經
+濟體的法國及意大利，失業率則出現小幅的上升。由於高失業率可能會引發政治動
+盪，歐洲各國領導人都把解決失業問題，視為最優先處理的議題。</p> </li>
+</ul> <ul> <li dir="ltr"> <p dir="ltr"><a href="http://www.bbc.co.uk
+/zhongwen/trad/world/2013/10/131030_spain_recession_ends.shtml">西班牙經
+濟增長 擺脫兩年衰退期<br /> </a>BBC中文版（2013-10-30）－西班牙國家統計
+局的數據顯示，西班牙終於走出長達兩年的經濟衰退期。統計數據顯示，西班牙今
+年7至9月國民生產總值成長0.1%，是2011年以來首次季度經濟增長。最新的統計數
+據意味著西班牙終於擺脫經濟衰退的夢魘。西班牙國家統計局說，出口量大增推動
+了整體經濟的增長，旅遊業也因為北非和中東地區局勢不安而接待了比以往更多的
+遊客。西班牙政府最近預測經濟衰退接近尾聲，表示政府實施的改革和緊縮政策發
+揮了效果。</p> </li> </ul> <h3 dir="ltr">[learn_more caption="導讀請按
+此"] 飽受歐債危機衝擊的歐元區，持續在經濟泥淖中掙扎，西班牙、義大利、希
+臘等國失業率高居不下，總歐元區的整體失業率仍高達12%。但好消息是根據歐盟
+公佈的經濟信心指數、歐盟信心指數、歐元區工業信心指數、服務業信心指數、採
+購經理人指數、國民生產總值成長率、綜合經濟觀察指標都有持續改善的跡象。
+其中採購經理人指數（Purchase Management Index）是衡量製造業的領先指標，
+可衡量製造業在生產、新訂單、商品價格、存貨、雇員、訂單交貨、新出口訂單和
+進口等狀況。通常採購經理人指數是以百分比來呈現，以50%作為經濟強弱的分界
+點。指數高於50%時，被解讀為經濟擴張的訊號；指數低於50%，尤其非常接近40%
+時，就有經濟蕭條的憂慮。 歐元區體質較弱的經濟體，透過歐盟撙節措施強制削
+減債務和經濟援助後逐漸回穩，但在製造業表現上仍然偏弱，可見體質改造並非一
+蹴可幾，另外歐元區傳統的觀光旅遊業穩定成長，是歐元區經濟成長的關鍵。歐盟
+的改革展現了初步成效，但要完全的復甦仍然是遙遙無期。[/learn_more]</h3>
+<p>&nbsp;</p> <h3 dir="ltr">亞洲<img alt=""
+src="https://lh4.googleusercontent.com/ghyNMxSwGcJZQMSsXa45XN15vJe0R2yP5p8mUpefcjeKkxoBsu6YwHjjfVEPpgoFlpUHpVw4QhJZmdDGXpYdzsqrSTZgw-3eVWS7dwHqrjp81j3v1Sqb8RQa"
+width="496px;" height="353px;" /></h3> <p dir="ltr">圖3: 中共第十八屆三
+中全會概念架構</p> <p dir="ltr">資料來源：http://z1.dfcfw.com/2013/10/28
+/201310281547412026506392.jpg</p> <h3 dir="ltr">Sight:中華人民共和國第十
+八屆三中全會相關報導</h3> <ul> <li dir="ltr"> <p dir="ltr"><a
+href="http://www.bbc.co.uk/zhongwen/trad/china/2013/10
+/131031_plenary_xijinping_power.shtml">三中全會改革議題將決定中國政治方
+向</a><br /> BBC中文網(2013-10-31)排行第四的中共高層領導人俞正聲10月26日
+講話指出，在即將召開的中共十八屆三中全會將主要研究全面深化改革的問題，新
+一輪改革將前所未有地推動中國經濟和社會各領域的變革。</p> </li> <li
+dir="ltr"> <p dir="ltr"><a href="http://big5.chinabroadcast.cn/gate/big5
+/gb.cri.cn/42071/2013/10/30/5005s4302515.htm">「383改革方案」或致土地供
+應單軌變雙規</a><br /> 國際線上(2013-10-30)民革中央此前的一份調查報告顯
+示，全國城鎮建成區只有5700萬畝，而農村集體建設用地卻有2.84億畝，是前者的
+5倍。房地產業界人士分析認為，如果這部分集體建設用地可以直接入市，意味著
+房地產市場增加了一個龐大的資源供應渠道。將有效的通過增加供應來源壓制房
+價。</p> </li> <li dir="ltr"> <p dir="ltr"><a
+href="http://news.cnyes.com/Content/20131028/KHAXZ3LQBD6B6.shtml">383改
+革方案：十年內實現人民幣國際化</a><br /> 鉅亨網(2013-10-28)中共官方傳媒
+披露，即將到來的十八屆三中全會，將提供383改革方案，383改革方案為「三位一
+體改革思路、八個重點改革領域、三個關聯性改革組合」的縮寫。報告提出，推進
+匯率形成機制市場化和人民幣資本項目可兌換。十年內使人民幣成為主要的國際結
+算和投資計價貨幣，在局部市場成為國際儲備貨幣。以此倒逼外匯市場、跨境投
+資、債券市場、金融機構本外幣綜合經營等領域的改革。</p> </li> </ul>
+<p>[learn_more caption="導讀請按此"] 首先，讓我們來了解什麼是三中全會。
+「三中全會」即為中華人民共和國全國人民代表大會所選出的中央委員們所組成的
+會議的第三次會議的縮寫。其次，三中全會為什麼重要？在歷史上，三中全會往往
+是歷代改革的契機，從鄧小平、江澤民、胡錦濤，三中全會都承先啟後的產生影響
+中國政局的重大變革。 此次，由習近平仰賴的智囊，也被認為是改革派的留洋學
+者，劉鶴，擔綱了此次「383改革方案」的工程師之一，外界對此甚為期待，認為
+很有可能有一番作為。然而，就目前所披露的資料顯示，383改革方案注重的是經
+濟層面的問題，注重的是讓中國的經濟在市場化的目標下更加的健全，「土地改
+革」由為醒目。政治改革，反而在目前披露的資料中是不見端倪的。
+[/learn_more]</p> <p>&nbsp;</p> Rich Text Area
+Toolbar
+	Bold (Ctrl + B) <javascript:;>	Italic (Ctrl + I) <javascript:;>
+Strikethrough (Alt + Shift + D) <javascript:;>	Unordered list (Alt +
+Shift + U) <javascript:;>	Ordered list (Alt + Shift + O) <javascript:;>
+Blockquote (Alt + Shift + Q) <javascript:;>	Align Left (Alt + Shift + L)
+<javascript:;>	Align Center (Alt + Shift + C) <javascript:;>	Align Right
+(Alt + Shift + R) <javascript:;>	Insert/edit link (Alt + Shift + A)
+<javascript:;>	Unlink (Alt + Shift + S) <javascript:;>	Insert More Tag
+(Alt + Shift + T) <javascript:;>	Distraction Free Writing mode (Alt +
+Shift + W) <javascript:;>	Show/Hide Kitchen Sink (Alt + Shift + Z)
+<javascript:;>		EmbedPlus Shortcode Wizard <javascript:;>		How much are
+your visitors actually watching the videos you post? Click here to start
+using this popular feature from EmbedPlus Labs » <javascript:;>		Add ET
+Learn more blockAdd ET Learn more block <javascript:;>	Add ET BoxAdd ET
+Box <javascript:;>	Add ET ButtonAdd ET Button <javascript:;>	Add ET
+TabsAdd ET Tabs <javascript:;>	Add Author BioAdd Author Bio <javascript:;>	
+
+	
+Format - Heading 3Heading 3 <javascript:;>	▼ <javascript:;>
+
+		Underline <javascript:;>	Align Full (Alt + Shift + J) <javascript:;>	
+Select text color
+<javascript:;>	▼ <javascript:;>
+
+	Paste as Plain Text <javascript:;>	Paste from Word <javascript:;>
+Remove formatting <javascript:;>	Insert custom character <javascript:;>
+Outdent <javascript:;>	Indent <javascript:;>	Undo (Ctrl + Z)
+<javascript:;>	Redo (Ctrl + Y) <javascript:;>	Help (Alt + Shift + H)
+<javascript:;>	
+
+<#>
+Path: h3 <javascript:;>
+<javascript:;>
+
+
+Word count: 127 	Draft saved at 10:13:29 pm. Last edited by icetornado
+on 2013/11/03 at 22:11	
+
+
+      Publish
+
+Preview Changes <http://www.insight-post.tw/?p=4753>
+Status: Published Edit <#post_status>
+OK <#post_status> Cancel <#post_status>
+Visibility: Public Edit <#visibility>
+Public
+Stick this post to the front page
+Password protected
+Password:
+Private
+
+OK <#visibility> Cancel <#visibility>
+
+Revisions: *4*	Browse
+<http://www.insight-post.tw/wp-admin/revision.php?revision=4758>
+Published on: *Nov 3, 2013 @ 22:11* Edit <#edit_timestamp>
+, @ :
+
+OK <#edit_timestamp> Cancel <#edit_timestamp>
+
+Move to Trash
+<http://www.insight-post.tw/wp-admin/post.php?post=4753&action=trash&_wpnonce=461ad47aa9>
+
+
+      Categories
+
+  * All Categories <#category-all>
+  * Most Used <#category-pop>
+
+  * Featured
+  * 精選專欄
+  * Weekly-Insight
+  * 團隊企劃
+  * 時事評析
+  * 在地追蹤
+  * 理查德專欄
+  * 貨殖列傳
+  * 歐亞連線
+  * 讀者投書
+
+  * Featured
+  * Weekly-Insight
+  * Uncategorized
+  * 團隊企劃
+      o 國關淺談
+      o 在地追蹤
+      o 書評影評
+      o 筆談國際觀
+      o 訪談報導
+  * 客座專欄
+  * 時事評析
+  * 精選專欄
+      o CL聽文化
+      o 偉恩專欄
+      o 南亞專欄
+      o 歐亞連線
+      o 理查德專欄
+      o 貨殖列傳
+  * 讀者投書
+
+
+        + Add New Category <#category-add>
+
+Add New Category Parent Category:
+
+
+      Tags
+
+Add or remove tags
+
+383改革方案, OGX, 中國, 以巴矛盾, 剛果戰亂, 叛軍, 國際時事, 氣候難民, 破
+產, 第十八屆三中全會, 美國健保
+Tags
+Add New Tag
+
+Separate tags with commas
+
+X 383改革方案X OGXX 中國X 以巴矛盾X 剛果戰亂X 叛軍X 國際時事X 氣候難民
+X 破產X 第十八屆三中全會X 美國健保
+
+Choose from the most used tags <#titlediv>
+
+
+      Featured Image
+
+9377504502_7134c94c33_o
+<http://www.insight-post.tw/wp-admin/media-upload.php?post_id=4753&type=image&TB_iframe=1>
+
+Remove featured image <#>
+
+
+      Revisions
+
+JavaScript must be enabled to use this feature.
+
+  * icetornado, 1 min ago (3 November, 2013 @ 22:11:29
+    <http://www.insight-post.tw/wp-admin/revision.php?revision=4758>)
+  * icetornado, 15 mins ago (3 November, 2013 @ 21:57:36
+    <http://www.insight-post.tw/wp-admin/revision.php?revision=4757>)
+  * icetornado, 28 mins ago (3 November, 2013 @ 21:44:04
+    <http://www.insight-post.tw/wp-admin/revision.php?revision=4755>)
+  * icetornado, 29 mins ago (3 November, 2013 @ 21:43:14
+    <http://www.insight-post.tw/wp-admin/revision.php?revision=4754>)
+
+
+      Excerpt
+
+Excerpt各位讀者們大家好，歡迎大家一起來閱讀第54期週報。首先，美洲方面，
+為讀者們持續追蹤美國的健保問題，美國才因健保問題而讓政府陷入停擺，然而危
+機甫結束，耗費鉅資的健保網站卻突然失靈，歐巴馬政府也因而腹背受敵。在南美
+方面，巴西石油巨擘陷入財務危機，這將對能源市場造成什麼影響？在中東方面，
+以色列釋放了26名犯人，巴勒斯坦額手稱慶，然而以色列人卻憂心忡忡，以巴在共
+同開發與維護和平顯然還有更多的談判空間。在非洲方面，剛果政府軍與叛軍和平
+協議破裂，聯合國維和人員出現傷亡。大洋洲方面，則關注澳洲政府如何安排與鄰
+國在氣候、移民等問題。歐洲方面，則為大家追蹤最新的。亞洲方面，中國即將迎
+來第十八屆三中全會，請看洞見為您整理最新的經改新聞。更多國際新聞，請各位
+隨時關注洞見粉絲團。
+
+Excerpts are optional hand-crafted summaries of your content that can be
+used in your theme. Learn more about manual excerpts.
+<http://codex.wordpress.org/Excerpt>
+
+
+      Send Trackbacks
+
+Send trackbacks to:
+(Separate multiple URLs with spaces)
+
+Trackbacks are a way to notify legacy blog systems that you’ve linked to
+them. If you link other WordPress sites they’ll be notified
+automatically using pingbacks
+<http://codex.wordpress.org/Introduction_to_Blogging#Managing_Comments>,
+no other action necessary.
+
+
+      Custom Fields
+
+Name 	Value
+Key
+	ValueWeekly-Insight
+
+*Add New Custom Field:*
+
+Name 	Value
+Enter new Cancel <#postcustomstuff> 	
+
+Custom fields can be used to add extra metadata to a post that you can
+use in your theme <http://codex.wordpress.org/Using_Custom_Fields>.
+
+
+      Discussion
+
+Allow comments.
+Allow trackbacks and pingbacks
+<http://codex.wordpress.org/Introduction_to_Blogging#Managing_Comments>
+on this page.
+
+
+      Comments
+
+Add comment <#commentstatusdiv>
+
+No comments yet.
+
+Comment by ** moved to the trash. Undo <#>
+Comment by ** marked as spam. Undo <#>
+
+
+      Slug
+
+Slug
+
+
+      Author
+
+Author
+
+
+          Reply to Comment
+
+
+          Add new Comment
+
+Name
+E-mail
+URL
+
+Add Comment Update Comment Submit Reply <#comments-form> Cancel
+<#comments-form>
+
+Thank you for creating with WordPress <http://wordpress.org/>.	
+
+*Get Version 3.7.1 <http://www.insight-post.tw/wp-admin/update-core.php>*	
+
+
+Saving revision... Your latest changes were saved as a revision.
+
+All Posts <http://www.insight-post.tw/wp-admin/edit.php>
+
+The backup of this post in your browser is different from the version
+below. Restore the backup. <#>
+
+Post restored successfully. Undo. <#>
+
+*Session expired*
+
+Please log in again. <http://www.insight-post.tw/wp-login.php> The login
+page will open in a new window. After logging in you can close it and
+return to this page.
+
+Enter the destination URL
+
+URL
+Title
+Open link in a new window/tab
+
+Or link to existing content
+
+Search
+
+/No search term specified. Showing recent items./
+
+Cancel <#>
+
+Exit fullscreen <#>
+Visual <#> Text <#>
+<#>
+<#>
+<#>
+<#>
+<#>
+<#>
+<#>
+<#>
+<#>
+Updated.
+Enter title here
+Word count: 127
+Just write.
+
+[Edit Image] [Delete Image]
+[Edit Gallery] [Delete Gallery]
+<#>
+<#>
+Set Featured Image <#>
+
+
+  Set Featured Image
+
+Upload Files <#>Media Library <#>
+
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+  *
+    <#>
+
+
+      Uploading
+
+Dismiss Errors <#>
+/ –
+
+
+      Attachment Details Saved.
+
+9377504502_7134c94c33_o.jpg
+2013/11/03
+2000 × 1333
+Edit Image
+<http://www.insight-post.tw/wp-admin/post.php?post=4756&action=edit&image-editor>
+Refresh <#> Delete Permanently <#>
+Title Caption Alt Text Description
+
+Set featured image <#>
+
+
+      Drop files to upload
+

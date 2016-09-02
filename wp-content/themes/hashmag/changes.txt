@@ -1,0 +1,5 @@
+1.1
+- Added Woocommerce 2.6.1 compatibility
+- Updated Revolution Slider to 5.2.5.4
+- Fixed blog share visibility on post layout one
+- Fixed facebook and twitter social share

@@ -1,0 +1,62 @@
+::selection { background: #f4511e;}
+
+::-moz-selection { background: #f4511e;}
+
+a:hover, p a:hover, .mkdf-top-bar #lang_sel ul li:hover .lang_sel_sel, .mkdf-top-bar #lang_sel ul ul a:hover, .mkdf-drop-down .mkdf-menu-second .mkdf-menu-inner ul li.mkdf-menu-sub:hover a i.mkdf_menu_arrow, .mkdf-drop-down .mkdf-menu-wide .mkdf-menu-second .mkdf-menu-inner>ul>li>a .menu_icon_wrapper i, .mkdf-drop-down .mkdf-menu-wide .mkdf-menu-second .mkdf-menu-inner ul li ul li a .item_text:after, .mkdf-top-bar .widget.widget_nav_menu ul li a:hover, .mkdf-mobile-header .mkdf-mobile-nav a:hover, .mkdf-mobile-header .mkdf-mobile-nav h6:hover, .mkdf-dark .mkdf-main-menu.mkdf-default-nav>ul>li.mkdf-active-item>a, .mkdf-light .mkdf-main-menu.mkdf-default-nav>ul>li.mkdf-active-item>a, .mkdf-transparent .mkdf-main-menu.mkdf-default-nav>ul>li.mkdf-active-item>a, footer .widget.widget_tag_cloud a:hover, footer .mkdf-footer-bottom-holder .widget.widget_nav_menu ul li a:hover, .mkdf-icon-shortcode .mkdf-icon-element, .mkdf-tabs.mkdf-tabs-skin-light .mkdf-tabs-nav li.ui-state-active a, .mkdf-tabs.mkdf-tabs-skin-light .mkdf-tabs-nav li.ui-state-hover a, .mkdf-tabs.mkdf-tabs-skin-dark .mkdf-tabs-nav li.ui-state-active a, .mkdf-tabs.mkdf-tabs-skin-dark .mkdf-tabs-nav li.ui-state-hover a, .mkdf-post-info-icon-holder .mkdf-post-info-icon, .mkdf-post-layout-light .mkdf-pt-title a:hover, .mkdf-pb-three-holder .mkdf-pb-three-non-featured .mkdf-pt-four-item.mkdf-reveal-nonf-active .mkdf-post-info-category .mkdf-comma, .mkdf-pb-three-holder .mkdf-pb-three-non-featured .mkdf-pt-four-item.mkdf-reveal-nonf-active .mkdf-post-info-category a, .mkdf-post-pag-np-horizontal.mkdf-post-layout-light .mkdf-bnl-nav-icon:hover, .mkdf-post-pag-np-horizontal.mkdf-post-layout-dark .mkdf-bnl-nav-icon:hover, .mkdf-bn-holder ul.mkdf-bn-slide .mkdf-bn-text a:hover, .mkdf-footer-bottom-holder .mkdf-social-icon-widget-holder:hover, .mkdf-top-bar .mkdf-social-icon-widget-holder:hover, .mkdf-twitter-widget li .mkdf-tweet-text a:hover, .mkdf-side-menu-button-opener:hover { color: #f4511e;}
+
+.mkdf-btn.mkdf-btn-solid:not(.mkdf-btn-custom-hover-color):hover .mkdf-btn-icon-element, .mkdf-btn.mkdf-btn-outline:not(.mkdf-btn-custom-hover-color):hover .mkdf-btn-icon-element, .mkdf-pt-five-item .mkdf-pt-five-image-holder+.mkdf-pt-five-content-holder .mkdf-pt-info-section>div .mkdf-post-info-author-link, .mkdf-pt-six-item.mkdf-item-hovered .mkdf-pt-six-title { color: #f4511e!important;}
+
+.mkdf-pagination ul li a:hover, .mkdf-pagination ul li.active span, .mkdf-single-links-pages .mkdf-single-links-pages-inner>a:hover, .mkdf-single-links-pages .mkdf-single-links-pages-inner>span, #mkdf-back-to-top>span, .mkdf-main-menu>ul>li.mkdf-active-item>a, .mkdf-main-menu>ul>li.mkdf-active-item>a, .mkdf-main-menu>ul>li:hover>a, footer .widget #wp-calendar td#today, footer .widget.widget_search input[type=submit], .wpb_widgetised_column .widget #wp-calendar td#today, aside.mkdf-sidebar .widget #wp-calendar td#today, .wpb_widgetised_column .widget.widget_search input[type=submit], aside.mkdf-sidebar .widget.widget_search input[type=submit], .mkdf-icon-shortcode.circle, .mkdf-icon-shortcode.square, .wpb_gallery_slides.wpb_flexslider .flex-control-nav li a.flex-active, .wpb_gallery_slides.wpb_flexslider .flex-control-nav li a:hover, .mkdf-social-share-holder.mkdf-dropdown:hover .mkdf-social-share-dropdown-opener, .mkdf-psc-holder .flex-direction-nav a .flex-control-paging>li a.flex-active, .mkdf-psc-holder .flex-direction-nav a .flex-control-paging>li a:hover, .mkdf-psc-slides .mkdf-post-item .mkdf-post-info-category, .mkdf-pswt-holder .mkdf-pswt-slides .mkdf-pswt-content .mkdf-pswt-content-inner .mkdf-post-info-category, .mkdf-pcs-swipe-holder .mkdf-post-item.mkdf-pt-seven-item .mkdf-post-info-category, .mkdf-post-item .mkdf-bnl-image-holder .mkdf-post-info-category, .mkdf-blog-holder article .mkdf-post-info-category, .mkdf-blog-holder article.format-link .mkdf-post-title-holder:before, .mkdf-blog-holder article.format-quote .mkdf-post-title-holder:before, .mkdf-single-tags-holder .mkdf-tags a:before, .mkdf-post-pag-np-horizontal .mkdf-bnl-navigation-holder .mkdf-paging-button-holder.mkdf-bnl-paging-active .mkdf-paging-button, .mkdf-post-pag-np-horizontal .mkdf-bnl-navigation-holder .mkdf-paging-button-holder:hover .mkdf-paging-button, .single-post .mkdf-post-content-featured .mkdf-post-info-category, .single-post.single-format-link .mkdf-title-subtitle-holder-inner:before, .single-post.single-format-quote .mkdf-title-subtitle-holder-inner:before, .single-post .mkdf-related-posts-holder .mkdf-post-info-category, .widget_mkdf_instagram_widget .mkdf-instagram-feed-heading a:hover span, .mkdf-twitter-widget .mkdf-twitter-widget-heading a:hover span, .mkdf-side-menu .widget #wp-calendar td#today, .mkdf-side-menu .widget.widget_search input[type=submit] { background-color: #f4511e;}
+
+.mkdf-shopping-cart-dropdown .mkdf-cart-bottom .checkout:hover, .mkdf-shopping-cart-dropdown .mkdf-cart-bottom .view-cart:hover { background-color: #f4511e!important;}
+
+.mkdf-dark .mkdf-search-menu-holder .mkdf-search-field:focus, .mkdf-light .mkdf-search-menu-holder .mkdf-search-field:focus, footer .widget.widget_search input:not([type=submit]):focus, footer .widget.widget_search input:not([type=submit]):focus+[type=submit], .mkdf-main-menu ul li .mkdf-plw-tabs .mkdf-plw-tabs-tab:hover { border-color: #f4511e;}
+
+::selection { background: #ffcfc5;}
+
+::-moz-selection { background: #ffcfc5;}
+
+.mkdf-boxed { background-attachment: fixed;background-size: cover;}
+
+.mkdf-content .mkdf-content-inner > .mkdf-full-width > .mkdf-full-width-inner { padding-top: 0px;}
+
+.mkdf-content .mkdf-content-inner > .mkdf-container > .mkdf-container-inner { padding-top: 0px;}
+
+            @media only screen and (max-width: 700px) {
+                .mkdf-top-bar {
+                    height: 0;
+                    display: none;
+                }
+            }
+        .mkdf-header-type3 .mkdf-page-header .mkdf-logo-area { background-color: #ffffff;}
+
+.mkdf-header-type3 .mkdf-page-header .mkdf-menu-area { height: 54px;}
+
+.mkdf-header-type3 .mkdf-page-header .mkdf-menu-area .mkdf-vertical-align-containers { background-color: #f4511e;}
+
+.mkdf-page-header .mkdf-sticky-header .mkdf-sticky-holder { background-color: rgba(244, 81, 30, 1);}
+
+.mkdf-page-header .mkdf-sticky-header .mkdf-main-menu.mkdf-sticky-nav > ul > li > a { color: #ffffff;font-size: 14px;font-weight: 600;letter-spacing: 3px;}
+
+            .mkdf-main-menu.mkdf-default-nav > ul > li > a {
+             color: #ffffff;                          font-size: 18px;                                      font-weight: 500;                          letter-spacing: 3px;             }
+        
+        
+        
+        .mkdf-drop-down .mkdf-menu-second .mkdf-menu-inner > ul,
+            li.mkdf-menu-narrow .mkdf-menu-second .mkdf-menu-inner ul,
+            .mkdf-top-bar #lang_sel ul ul { background-color: #252525;}
+
+.mkdf-mobile-header .mkdf-mobile-nav { background-color: #f4511e;}
+
+.mkdf-side-menu-slide-over-content .mkdf-side-menu { left: -290px;width: 290px;}
+
+.mkdf-side-menu-button-opener span { font-size: 18px;}
+
+a.mkdf-side-menu-button-opener { color: #f4511e;}
+
+.mkdf-side-menu-open .mkdf-side-menu .mkdf-side-menu-close .mkdf-close-1, 
+                                             .mkdf-side-menu-open .mkdf-side-menu .mkdf-side-menu-close .mkdf-close-2 { border-color: #f4511e;}
+
+.mkdf-side-menu { background-color: #ffffff;}
+

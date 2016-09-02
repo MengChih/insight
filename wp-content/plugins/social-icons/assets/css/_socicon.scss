@@ -1,0 +1,1243 @@
+/**
+ * _socicon.scss
+ * Styles applied to socicon.
+ */
+
+/**
+ * Imports
+ */
+@import "variables";
+
+/**
+ * Socicon fonts
+ */
+@font-face {
+	font-family: 'socicon';
+	src: url('../fonts/socicon.eot');
+	src: url('../fonts/socicon.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/socicon.woff') format('woff'),
+		url('../fonts/socicon.ttf') format('truetype'),
+		url('../fonts/socicon.svg#socicon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/**
+ * Styling begins
+ */
+[data-icon]:before {
+	font-family: "socicon" !important;
+	content: attr(data-icon);
+	font-style: normal !important;
+	font-weight: normal !important;
+	font-variant: normal !important;
+	text-transform: none !important;
+	speak: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+[class^="socicon-"]:before,
+[class*=" socicon-"]:before {
+	font-family: "socicon" !important;
+	font-style: normal !important;
+	font-weight: normal !important;
+	font-variant: normal !important;
+	text-transform: none !important;
+	speak: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.socicon {
+	position: relative;
+	top: 3px;
+	display: inline-block;
+	font-family: 'socicon';
+	font-style: normal;
+	font-weight: normal;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	font-size: 1.2em;
+}
+
+.socicon-modelmayhem {
+	color: $icon-modelmayhem;
+	background-color: $icon-modelmayhem;
+
+	&:before {
+		content: "\e000";
+	}
+}
+
+.socicon-mixcloud {
+	color: $icon-mixcloud;
+	background-color: $icon-mixcloud;
+
+	&:before {
+		content: "\e001";
+	}
+}
+
+.socicon-drupal {
+	color: $icon-drupal;
+	background-color: $icon-drupal;
+
+	&:before {
+		content: "\e002";
+	}
+}
+
+.socicon-swarm {
+	color: $icon-swarm;
+	background-color: $icon-swarm;
+
+	&:before {
+		content: "\e003";
+	}
+}
+
+.socicon-istock {
+	color: $icon-istock;
+	background-color: $icon-istock;
+
+	&:before {
+		content: "\e004";
+	}
+}
+
+.socicon-yammer {
+	color: $icon-yammer;
+	background-color: $icon-yammer;
+
+	&:before {
+		content: "\e005";
+	}
+}
+
+.socicon-ello {
+	color: $icon-ello;
+	background-color: $icon-ello;
+
+	&:before {
+		content: "\e006";
+	}
+}
+
+.socicon-stackoverflow {
+	color: $icon-stackoverflow;
+	background-color: $icon-stackoverflow;
+
+	&:before {
+		content: "\e007";
+	}
+}
+
+.socicon-persona {
+	color: $icon-persona;
+	background-color: $icon-persona;
+
+	&:before {
+		content: "\e008";
+	}
+}
+
+.socicon-triplej {
+	color: $icon-triplej;
+	background-color: $icon-triplej;
+
+	&:before {
+		content: "\e009";
+	}
+}
+
+.socicon-houzz {
+	color: $icon-houzz;
+	background-color: $icon-houzz;
+
+	&:before {
+		content: "\e00a";
+	}
+}
+
+.socicon-rss {
+	color: $icon-rss;
+	background-color: $icon-rss;
+
+	&:before {
+		content: "\e00b";
+	}
+}
+
+.socicon-paypal {
+	color: $icon-paypal;
+	background-color: $icon-paypal;
+
+	&:before {
+		content: "\e00c";
+	}
+}
+
+.socicon-odnoklassniki {
+	color: $icon-odnoklassniki;
+	background-color: $icon-odnoklassniki;
+
+	&:before {
+		content: "\e00d";
+	}
+}
+
+.socicon-airbnb {
+	color: $icon-airbnb;
+	background-color: $icon-airbnb;
+
+	&:before {
+		content: "\e00e";
+	}
+}
+
+.socicon-periscope {
+	color: $icon-periscope;
+	background-color: $icon-periscope;
+
+	&:before {
+		content: "\e00f";
+	}
+}
+
+.socicon-outlook {
+	color: $icon-outlook;
+	background-color: $icon-outlook;
+
+	&:before {
+		content: "\e010";
+	}
+}
+
+.socicon-coderwall {
+	color: $icon-coderwall;
+	background-color: $icon-coderwall;
+
+	&:before {
+		content: "\e011";
+	}
+}
+
+.socicon-tripadvisor {
+	color: $icon-tripadvisor;
+	background-color: $icon-tripadvisor;
+
+	&:before {
+		content: "\e012";
+	}
+}
+
+.socicon-appnet {
+	color: $icon-appnet;
+	background-color: $icon-appnet;
+
+	&:before {
+		content: "\e013";
+	}
+}
+
+.socicon-goodreads {
+	color: $icon-goodreads;
+	background-color: $icon-goodreads;
+
+	&:before {
+		content: "\e014";
+	}
+}
+
+.socicon-tripit {
+	color: $icon-tripit;
+	background-color: $icon-tripit;
+
+	&:before {
+		content: "\e015";
+	}
+}
+
+.socicon-lanyrd {
+	color: $icon-lanyrd;
+	background-color: $icon-lanyrd;
+
+	&:before {
+		content: "\e016";
+	}
+}
+
+.socicon-slideshare {
+	color: $icon-slideshare;
+	background-color: $icon-slideshare;
+
+	&:before {
+		content: "\e017";
+	}
+}
+
+.socicon-buffer {
+	color: $icon-buffer;
+	background-color: $icon-buffer;
+
+	&:before {
+		content: "\e018";
+	}
+}
+
+.socicon-disqus {
+	color: $icon-disqus;
+	background-color: $icon-disqus;
+
+	&:before {
+		content: "\e019";
+	}
+}
+
+.socicon-vkontakte {
+	color: $icon-vkontakte;
+	background-color: $icon-vkontakte;
+
+	&:before {
+		content: "\e01a";
+	}
+}
+
+.socicon-whatsapp {
+	color: $icon-whatsapp;
+	background-color: $icon-whatsapp;
+
+	&:before {
+		content: "\e01b";
+	}
+}
+
+.socicon-patreon {
+	color: $icon-patreon;
+	background-color: $icon-patreon;
+
+	&:before {
+		content: "\e01c";
+	}
+}
+
+.socicon-storehouse {
+	color: $icon-storehouse;
+	background-color: $icon-storehouse;
+
+	&:before {
+		content: "\e01d";
+	}
+}
+
+.socicon-pocket {
+	color: $icon-pocket;
+	background-color: $icon-pocket;
+
+	&:before {
+		content: "\e01e";
+	}
+}
+
+.socicon-mail {
+	color: $icon-mail;
+	background-color: $icon-mail;
+
+	&:before {
+		content: "\e01f";
+	}
+}
+
+.socicon-blogger {
+	color: $icon-blogger;
+	background-color: $icon-blogger;
+
+	&:before {
+		content: "\e020";
+	}
+}
+
+.socicon-technorati {
+	color: $icon-technorati;
+	background-color: $icon-technorati;
+
+	&:before {
+		content: "\e021";
+	}
+}
+
+.socicon-reddit {
+	color: $icon-reddit;
+	background-color: $icon-reddit;
+
+	&:before {
+		content: "\e022";
+	}
+}
+
+.socicon-dribbble {
+	color: $icon-dribbble;
+	background-color: $icon-dribbble;
+
+	&:before {
+		content: "\e023";
+	}
+}
+
+.socicon-stumbleupon {
+	color: $icon-stumbleupon;
+	background-color: $icon-stumbleupon;
+
+	&:before {
+		content: "\e024";
+	}
+}
+
+.socicon-digg {
+	color: $icon-digg;
+	background-color: $icon-digg;
+
+	&:before {
+		content: "\e025";
+	}
+}
+
+.socicon-envato {
+	color: $icon-envato;
+	background-color: $icon-envato;
+
+	&:before {
+		content: "\e026";
+	}
+}
+
+.socicon-behance {
+	color: $icon-behance;
+	background-color: $icon-behance;
+
+	&:before {
+		content: "\e027";
+	}
+}
+
+.socicon-delicious {
+	color: $icon-delicious;
+	background-color: $icon-delicious;
+
+	&:before {
+		content: "\e028";
+	}
+}
+
+.socicon-deviantart {
+	color: $icon-deviantart;
+	background-color: $icon-deviantart;
+
+	&:before {
+		content: "\e029";
+	}
+}
+
+.socicon-forrst {
+	color: $icon-forrst;
+	background-color: $icon-forrst;
+
+	&:before {
+		content: "\e02a";
+	}
+}
+
+.socicon-play {
+	color: $icon-play;
+	background-color: $icon-play;
+
+	&:before {
+		content: "\e02b";
+	}
+}
+
+.socicon-zerply {
+	color: $icon-zerply;
+	background-color: $icon-zerply;
+
+	&:before {
+		content: "\e02c";
+	}
+}
+
+.socicon-wikipedia {
+	color: $icon-wikipedia;
+	background-color: $icon-wikipedia;
+
+	&:before {
+		content: "\e02d";
+	}
+}
+
+.socicon-apple {
+	color: $icon-apple;
+	background-color: $icon-apple;
+
+	&:before {
+		content: "\e02e";
+	}
+}
+
+.socicon-flattr {
+	color: $icon-flattr;
+	background-color: $icon-flattr;
+
+	&:before {
+		content: "\e02f";
+	}
+}
+
+.socicon-github {
+	color: $icon-github;
+	background-color: $icon-github;
+
+	&:before {
+		content: "\e030";
+	}
+}
+
+.socicon-renren {
+	color: $icon-renren;
+	background-color: $icon-renren;
+
+	&:before {
+		content: "\e031";
+	}
+}
+
+.socicon-friendfeed {
+	color: $icon-friendfeed;
+	background-color: $icon-friendfeed;
+
+	&:before {
+		content: "\e032";
+	}
+}
+
+.socicon-newsvine {
+	color: $icon-newsvine;
+	background-color: $icon-newsvine;
+
+	&:before {
+		content: "\e033";
+	}
+}
+
+.socicon-identica {
+	color: $icon-identica;
+	background-color: $icon-identica;
+
+	&:before {
+		content: "\e034";
+	}
+}
+
+.socicon-bebo {
+	color: $icon-bebo;
+	background-color: $icon-bebo;
+
+	&:before {
+		content: "\e035";
+	}
+}
+
+.socicon-zynga {
+	color: $icon-zynga;
+	background-color: $icon-zynga;
+
+	&:before {
+		content: "\e036";
+	}
+}
+
+.socicon-steam {
+	color: $icon-steam;
+	background-color: $icon-steam;
+
+	&:before {
+		content: "\e037";
+	}
+}
+
+.socicon-xbox {
+	color: $icon-xbox;
+	background-color: $icon-xbox;
+
+	&:before {
+		content: "\e038";
+	}
+}
+
+.socicon-windows {
+	color: $icon-windows;
+	background-color: $icon-windows;
+
+	&:before {
+		content: "\e039";
+	}
+}
+
+.socicon-qq {
+	color: $icon-qq;
+	background-color: $icon-qq;
+
+	&:before {
+		content: "\e03a";
+	}
+}
+
+.socicon-douban {
+	color: $icon-douban;
+	background-color: $icon-douban;
+
+	&:before {
+		content: "\e03b";
+	}
+}
+
+.socicon-meetup {
+	color: $icon-meetup;
+	background-color: $icon-meetup;
+
+	&:before {
+		content: "\e03c";
+	}
+}
+
+.socicon-playstation {
+	color: $icon-playstation;
+	background-color: $icon-playstation;
+
+	&:before {
+		content: "\e03d";
+	}
+}
+
+.socicon-android {
+	color: $icon-android;
+	background-color: $icon-android;
+
+	&:before {
+		content: "\e03e";
+	}
+}
+
+.socicon-snapchat {
+	color: $icon-snapchat;
+	background-color: $icon-snapchat;
+
+	&:before {
+		content: "\e03f";
+	}
+}
+
+.socicon-twitter {
+	color: $icon-twitter;
+	background-color: $icon-twitter;
+
+	&:before {
+		content: "\e040";
+	}
+}
+
+.socicon-facebook {
+	color: $icon-facebook;
+	background-color: $icon-facebook;
+
+	&:before {
+		content: "\e041";
+	}
+}
+
+.socicon-googleplus {
+	color: $icon-googleplus;
+	background-color: $icon-googleplus;
+
+	&:before {
+		content: "\e042";
+	}
+}
+
+.socicon-pinterest {
+	color: $icon-pinterest;
+	background-color: $icon-pinterest;
+
+	&:before {
+		content: "\e043";
+	}
+}
+
+.socicon-foursquare {
+	color: $icon-foursquare;
+	background-color: $icon-foursquare;
+
+	&:before {
+		content: "\e044";
+	}
+}
+
+.socicon-yahoo {
+	color: $icon-yahoo;
+	background-color: $icon-yahoo;
+
+	&:before {
+		content: "\e045";
+	}
+}
+
+.socicon-skype {
+	color: $icon-skype;
+	background-color: $icon-skype;
+
+	&:before {
+		content: "\e046";
+	}
+}
+
+.socicon-yelp {
+	color: $icon-yelp;
+	background-color: $icon-yelp;
+
+	&:before {
+		content: "\e047";
+	}
+}
+
+.socicon-feedburner {
+	color: $icon-feedburner;
+	background-color: $icon-feedburner;
+
+	&:before {
+		content: "\e048";
+	}
+}
+
+.socicon-linkedin {
+	color: $icon-linkedin;
+	background-color: $icon-linkedin;
+
+	&:before {
+		content: "\e049";
+	}
+}
+
+.socicon-viadeo {
+	color: $icon-viadeo;
+	background-color: $icon-viadeo;
+
+	&:before {
+		content: "\e04a";
+	}
+}
+
+.socicon-xing {
+	color: $icon-xing;
+	background-color: $icon-xing;
+
+	&:before {
+		content: "\e04b";
+	}
+}
+
+.socicon-myspace {
+	color: $icon-myspace;
+	background-color: $icon-myspace;
+
+	&:before {
+		content: "\e04c";
+	}
+}
+
+.socicon-soundcloud {
+	color: $icon-soundcloud;
+	background-color: $icon-soundcloud;
+
+	&:before {
+		content: "\e04d";
+	}
+}
+
+.socicon-spotify {
+	color: $icon-spotify;
+	background-color: $icon-spotify;
+
+	&:before {
+		content: "\e04e";
+	}
+}
+
+.socicon-grooveshark {
+	color: $icon-grooveshark;
+	background-color: $icon-grooveshark;
+
+	&:before {
+		content: "\e04f";
+	}
+}
+
+.socicon-lastfm {
+	color: $icon-lastfm;
+	background-color: $icon-lastfm;
+
+	&:before {
+		content: "\e050";
+	}
+}
+
+.socicon-youtube {
+	color: $icon-youtube;
+	background-color: $icon-youtube;
+
+	&:before {
+		content: "\e051";
+	}
+}
+
+.socicon-vimeo {
+	color: $icon-vimeo;
+	background-color: $icon-vimeo;
+
+	&:before {
+		content: "\e052";
+	}
+}
+
+.socicon-dailymotion {
+	color: $icon-dailymotion;
+	background-color: $icon-dailymotion;
+
+	&:before {
+		content: "\e053";
+	}
+}
+
+.socicon-vine {
+	color: $icon-vine;
+	background-color: $icon-vine;
+
+	&:before {
+		content: "\e054";
+	}
+}
+
+.socicon-flickr {
+	color: $icon-flickr;
+	background-color: $icon-flickr;
+
+	&:before {
+		content: "\e055";
+	}
+}
+
+.socicon-500px {
+	color: $icon-500px;
+	background-color: $icon-500px;
+
+	&:before {
+		content: "\e056";
+	}
+}
+
+.socicon-instagram {
+	color: $icon-instagram;
+	background-color: $icon-instagram;
+
+	&:before {
+		content: "\e057";
+	}
+}
+
+.socicon-wordpress {
+	color: $icon-wordpress;
+	background-color: $icon-wordpress;
+
+	&:before {
+		content: "\e058";
+	}
+}
+
+.socicon-tumblr {
+	color: $icon-tumblr;
+	background-color: $icon-tumblr;
+
+	&:before {
+		content: "\e059";
+	}
+}
+
+.socicon-twitch {
+	color: $icon-twitch;
+	background-color: $icon-twitch;
+
+	&:before {
+		content: "\e05a";
+	}
+}
+
+.socicon-8tracks {
+	color: $icon-8tracks;
+	background-color: $icon-8tracks;
+
+	&:before {
+		content: "\e05b";
+	}
+}
+
+.socicon-amazon {
+	color: $icon-amazon;
+	background-color: $icon-amazon;
+
+	&:before {
+		content: "\e05c";
+	}
+}
+
+.socicon-icq {
+	color: $icon-icq;
+	background-color: $icon-icq;
+
+	&:before {
+		content: "\e05d";
+	}
+}
+
+.socicon-smugmug {
+	color: $icon-smugmug;
+	background-color: $icon-smugmug;
+
+	&:before {
+		content: "\e05e";
+	}
+}
+
+.socicon-ravelry {
+	color: $icon-ravelry;
+	background-color: $icon-ravelry;
+
+	&:before {
+		content: "\e05f";
+	}
+}
+
+.socicon-weibo {
+	color: $icon-weibo;
+	background-color: $icon-weibo;
+
+	&:before {
+		content: "\e060";
+	}
+}
+
+.socicon-baidu {
+	color: $icon-baidu;
+	background-color: $icon-baidu;
+
+	&:before {
+		content: "\e061";
+	}
+}
+
+.socicon-angellist {
+	color: $icon-angellist;
+	background-color: $icon-angellist;
+
+	&:before {
+		content: "\e062";
+	}
+}
+
+.socicon-ebay {
+	color: $icon-ebay;
+	background-color: $icon-ebay;
+
+	&:before {
+		content: "\e063";
+	}
+}
+
+.socicon-imdb {
+	color: $icon-imdb;
+	background-color: $icon-imdb;
+
+	&:before {
+		content: "\e064";
+	}
+}
+
+.socicon-stayfriends {
+	color: $icon-stayfriends;
+	background-color: $icon-stayfriends;
+
+	&:before {
+		content: "\e065";
+	}
+}
+
+.socicon-residentadvisor {
+	color: $icon-residentadvisor;
+	background-color: $icon-residentadvisor;
+
+	&:before {
+		content: "\e066";
+	}
+}
+
+.socicon-google {
+	color: $icon-google;
+	background-color: $icon-google;
+
+	&:before {
+		content: "\e067";
+	}
+}
+
+.socicon-yandex {
+	color: $icon-yandex;
+	background-color: $icon-yandex;
+
+	&:before {
+		content: "\e068";
+	}
+}
+
+.socicon-sharethis {
+	color: $icon-sharethis;
+	background-color: $icon-sharethis;
+
+	&:before {
+		content: "\e069";
+	}
+}
+
+.socicon-bandcamp {
+	color: $icon-bandcamp;
+	background-color: $icon-bandcamp;
+
+	&:before {
+		content: "\e06a";
+	}
+}
+
+.socicon-itunes {
+	color: $icon-itunes;
+	background-color: $icon-itunes;
+
+	&:before {
+		content: "\e06b";
+	}
+}
+
+.socicon-deezer {
+	color: $icon-deezer;
+	background-color: $icon-deezer;
+
+	&:before {
+		content: "\e06c";
+	}
+}
+
+.socicon-medium {
+	color: $icon-medium;
+	background-color: $icon-medium;
+
+	&:before {
+		content: "\e06d";
+	}
+}
+
+.socicon-telegram {
+	color: $icon-telegram;
+	background-color: $icon-telegram;
+
+	&:before {
+		content: "\e06e";
+	}
+}
+
+.socicon-openid {
+	color: $icon-openid;
+	background-color: $icon-openid;
+
+	&:before {
+		content: "\e06f";
+	}
+}
+
+.socicon-amplement {
+	color: $icon-amplement;
+	background-color: $icon-amplement;
+
+	&:before {
+		content: "\e070";
+	}
+}
+
+.socicon-viber {
+	color: $icon-viber;
+	background-color: $icon-viber;
+
+	&:before {
+		content: "\e071";
+	}
+}
+
+.socicon-zomato {
+	color: $icon-zomato;
+	background-color: $icon-zomato;
+
+	&:before {
+		content: "\e072";
+	}
+}
+
+.socicon-quora {
+	color: $icon-quora;
+	background-color: $icon-quora;
+
+	&:before {
+		content: "\e073";
+	}
+}
+
+.socicon-draugiem {
+	color: $icon-draugiem;
+	background-color: $icon-draugiem;
+
+	&:before {
+		content: "\e074";
+	}
+}
+
+.socicon-endomodo {
+	color: $icon-endomodo;
+	background-color: $icon-endomodo;
+
+	&:before {
+		content: "\e075";
+	}
+}
+
+.socicon-filmweb {
+	color: $icon-filmweb;
+	background-color: $icon-filmweb;
+
+	&:before {
+		content: "\e076";
+	}
+}
+
+.socicon-stackexchange {
+	color: $icon-stackexchange;
+	background-color: $icon-stackexchange;
+
+	&:before {
+		content: "\e077";
+	}
+}
+
+.socicon-wykop {
+	color: $icon-wykop;
+	background-color: $icon-wykop;
+
+	&:before {
+		content: "\e078";
+	}
+}
+
+.socicon-teamspeak {
+	color: $icon-teamspeak;
+	background-color: $icon-teamspeak;
+
+	&:before {
+		content: "\e079";
+	}
+}
+
+.socicon-teamviewer {
+	color: $icon-teamviewer;
+	background-color: $icon-teamviewer;
+
+	&:before {
+		content: "\e07a";
+	}
+}
+
+.socicon-ventrilo {
+	color: $icon-ventrilo;
+	background-color: $icon-ventrilo;
+
+	&:before {
+		content: "\e07b";
+	}
+}
+
+.socicon-younow {
+	color: $icon-younow;
+	background-color: $icon-younow;
+
+	&:before {
+		content: "\e07c";
+	}
+}
+
+.socicon-raidcall {
+	color: $icon-raidcall;
+	background-color: $icon-raidcall;
+
+	&:before {
+		content: "\e07d";
+	}
+}
+
+.socicon-mumble {
+	color: $icon-mumble;
+	background-color: $icon-mumble;
+
+	&:before {
+		content: "\e07e";
+	}
+}
+
+.socicon-bebee {
+	color: $icon-bebee;
+	background-color: $icon-bebee;
+
+	&:before {
+		content: "\e07f";
+	}
+}
+
+.socicon-hitbox {
+	color: $icon-hitbox;
+	background-color: $icon-hitbox;
+
+	&:before {
+		content: "\e080";
+	}
+}
+
+.socicon-reverbnation {
+	color: $icon-reverbnation;
+	background-color: $icon-reverbnation;
+
+	&:before {
+		content: "\e081";
+	}
+}
+
+.socicon-formulr {
+	color: $icon-formulr;
+	background-color: $icon-formulr;
+
+	&:before {
+		content: "\e082";
+	}
+}

@@ -1,0 +1,20 @@
+.wp_themeSkin span.mce_embedpluswiz, span.mce_embedpluswiz, .mce-i-embedpluswiz
+{
+    background: transparent url("../images/btn_embedpluswizoff.png") no-repeat scroll center center !important;
+}
+
+.wp_themeSkin span.mce_embedpluswiz:hover, span.mce_embedpluswiz:hover, .mce-i-embedpluswiz:hover
+{
+    background-image: url("../images/btn_embedpluswiz.png") !important;
+}
+
+.wp_themeSkin span.mce_embedplusstats, span.mce_embedplusstats, .mce-i-embedplusstats
+{
+    background: transparent url("../images/btn_embedplusstatsoff.png") no-repeat scroll center center !important;
+}
+
+.wp_themeSkin span.mce_embedplusstats:hover, span.mce_embedplusstats:hover, .mce-i-embedplusstats:hover
+{
+    background-image: url("../images/btn_embedplusstats.png") !important;
+}
+

@@ -1,0 +1,198 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Facebook Comments"
+msgstr ""
+
+#. Short description.
+msgid "The Facebook Comments WordPress plugin makes it easier for you to setup, administer and customise Facebook comments from your WordPress site."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Facebook comments can be annoying to set up. This plugin makes it simple to add the Facebook comments system to your WordPress site without any hassle."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Simply install the plugin and follow the instructions on the Settings page."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "You can also insert the comment box as a shortcode into any post, page or template and use your own settings for each time you do it! Simply use the shortcode [fbcomments]"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload <code>facebook-comments-plugin</code> directory to the <code>/wp-content/plugins/</code> directory"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Go to the Facebook Comments settings"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Go through the steps and hit update!"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "This section describes how to install the plugin and get it working."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a few issues."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a few compatibility issues."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix a variable undefined bug."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed old SDK option"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed duplicate shortcode example"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added in option to choose between v2.3 and v2.0 of SDK as per some requests"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated Facebook SDK to 2.3 (coincidentally for FB Comments v2.3!)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Admin and mod code only appear if something is entered. Removes potential conflicts with other third party plugins doing the same."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a few compatibility issues"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added META box for single posts, post types and pages so you can enable/disable Facebook comments per post or page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixes for non-defined variables"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WordPress 4.0 compatibility"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "SDK update"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Responsive 100% width as default"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Language selection made local"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Branding update"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor Bug Fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed jQuery option to use Google libraries."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated SDK"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Better performance"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed depricated CSS tags"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Easier language selection"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Easier to manage moderators"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Re-added app ID META tag to deal with lack of notifications within Facebook"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated Javascript SDK call"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added HTML5 as default option"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Credit bug fix"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Sorted bug fix not displaying comments to some people"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added language option"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Some bug fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Facebook's dark colour scheme"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added option for linklove"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Squigly close bracket removed from header"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Created more customisation options via CSS"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Created shortcode so the comment box can be entered anywhere"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added comment count"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added better functionality to coincide with Facebook's standards (thanks to Ray at Facebook)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added migration option for anyone who may have received the relevant email from Facebook"
+msgstr ""
